@@ -1,0 +1,100 @@
+	*** Learn React JS - Full Course for Beginners - Tutorial 2019 part II ***
+
+----------------------------------------------------------------
+
+9. Lifecycle Methods 
+N: This is not longer used but it is imporant to understand the principles of this methods
+
+Lesson # 34. Lifecycle Methods part 1
+https://scrimba.com/scrim/cewQ2Sq?pl=p7P5Hd
+
+Lesson # 35.React Lifecycle Methods - Part 2
+https://scrimba.com/scrim/cEkyPH2?pl=p7P5Hd
+
+React Lifecycle Methods - Part 3
+https://scrimba.com/scrim/cD7DJMUb?pl=p7P5Hd
+
+----------------------------------------------------------------
+
+10. Conditional Rendering
+
+Lesson # 36. React Conditional Render - Part 1
+N: Explanation about ternary operators (comparison with "?" and ":")
+https://scrimba.com/learn/learnreact/react-conditional-render-c4kJNSL
+
+Lesson # 37: React Conditional Render - Part 2
+N: Explanation about the AND operator (&&)
+https://scrimba.com/learn/learnreact/react-conditional-render-part-2-cDqbpcg
+
+Lesson # 38: React Conditional Render Practice
+https://scrimba.com/scrim/c893vh2?pl=p7P5Hd
+
+Lesson # 39: React Todo App: Phase
+N: Cool way to style the completed tasks using ternary operators!
+https://scrimba.com/scrim/cKe27SD?pl=p7P5Hd
+
+----------------------------------------------------------------
+
+11. Fetching Data
+
+Lesson # 40:
+N: Fetching with the method "componentDidMount". This method is not longer used.
+https://scrimba.com/scrim/c79Jask?pl=p7P5Hd
+
+----------------------------------------------------------------
+
+12. Forms
+
+Lesson # 41: React Forms Part 1 
+N: It is also an uotdated way of doing things.
+https://scrimba.com/scrim/cW8Jdfy?pl=p7P5Hd
+
+Lesson # 42: React Form Part 2 
+N: Interesting way to use the same eventHandler with different forms. I need to check if that will be will useful with "hooks".
+https://scrimba.com/scrim/cGKqZUQ?pl=p7P5Hd
+
+Lesson # 43: React Form Practice 
+https://scrimba.com/scrim/ceLWEsp?pl=p7P5Hd
+
+----------------------------------------------------------------
+
+13. React Container & Component Architecture
+
+Lesson # 44: 
+N: Learning about reuseble componets with a forms exercise
+https://scrimba.com/scrim/cwRZ9fG?pl=p7P5Hd
+
+Lesson # 45. React Meme Generator Capstone Project:
+https://scrimba.com/scrim/c6K77um?pl=p7P5Hd
+
+
+
+----------------------------------------------------------------
+
+14. Writting Modern React App / HOOKS / 
+
+Lesson # 46. Writing Modern React Apps:
+https://scrimba.com/scrim/cvDkySN?pl=p7P5Hd
+
+Hooks Intro
+N: class-based componets unnecesary
+https://scrimba.com/scrim/crmJRqfm?pl=p7P5Hd
+
+Lesson # 47: useState() Part 1 - Creating State 
+https://scrimba.com/scrim/cRqP9mhg?pl=p7P5Hd
+
+Lesson # 48: useState() Part 2 - Changing State
+https://scrimba.com/scrim/cWQw9JH2?pl=p7P5Hd
+
+Lesson # 49: useEffect() Part 1 
+https://scrimba.com/scrim/caqbeZTw?pl=p7P5Hd
+
+Lesson # 50:useEffect() Part 2 
+https://scrimba.com/scrim/cLpdgBAd?pl=p7P5Hd
+
+
+
+
+
+
+

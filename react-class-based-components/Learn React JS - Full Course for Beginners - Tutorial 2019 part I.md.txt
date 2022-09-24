@@ -1,0 +1,136 @@
+	*** Learn React JS - Full Course for Beginners - Tutorial 2019 ***
+
+N: This is the course recomended by Winc Academy but is a bit outdated. Although It wxplains React from scratch so it is helpful to watch watch but then look at other courses as well
+
+https://www.youtube.com/watch?v=DLX62G4lc44
+
+		TOPICS:
+1. styling.
+2. reuseable componets
+3. Props
+4. Mapping Components
+5. Class-based components.
+6. React State
+7. Handling Events in React
+8. Changing the state
+
+
+
+----------------------------------------------------------
+
+	1. styling.
+
+We can learn about css by checking materials about styling components.
+Lesson # 14:
+https://scrimba.com/scrim/cepwWUp?pl=p7P5Hd
+
+Lesson # 15:
+https://scrimba.com/scrim/cbyv9hb?pl=p7P5Hd
+
+---------------------------------------------------------
+
+	2. reuseable componets
+
+Lesson # 16. TODO app phase 2
+Check cool styling and reuseable componets.
+
+https://scrimba.com/scrim/cewQ3fp?pl=p7P5Hd
+
+----------------------------------------------------------
+
+	3. Props
+
+Lesson # 17. Definition par 1t:
+https://scrimba.com/scrim/cvP7Qf2?pl=p7P5Hd
+
+Lesson # 18. Definition part 2:
+https://scrimba.com/scrim/cd27pTk?pl=p7P5Hd
+
+Lesson # 19. Practice props(basic)
+https://scrimba.com/scrim/cqP7bhm?pl=p7P5Hd
+
+Lesson # 20. Props and styling.
+https://scrimba.com/scrim/cbykBfa?pl=p7P5Hd
+Ternary operator (?). Example:
+
+	<h3 style={{display: props.question ? "block" : "none"}}>	Question: {props.question}</h3>
+
+It can be also with double ampersand (&&)like this:
+
+	<h3 style={{display: !props.question && "none"}}>Question: 	{props.question}</h3>
+// the (!) before props.question means that if this property(props) is false then it will not show it on the screen.
+
+----------------------------------------------------------
+
+	4. Mapping Components  
+
+N: Looping (forEach, Map) are high order methods. It is mandatory to include the key element while looping.
+
+
+Lesson # 21: 
+https://scrimba.com/scrim/cDZbahv?pl=p7P5Hd
+
+Lesson 22: 
+https://scrimba.com/scrim/c6b6Lfm?pl=p7P5Hd
+
+Lesson # 23. TODO app fase 3
+https://scrimba.com/scrim/c4dDqtg?pl=p7P5Hd
+
+----------------------------------------------------------
+
+	5. Class-based components.
+
+N: This is for changing the state (data) dynamically but is outdated, instead we should use useState(). Nevertheless we might bump into a code that still use class-based components.
+
+Lesson # 24:
+https://scrimba.com/scrim/c3bNDCz?pl=p7P5Hd
+
+Lesson # 25  Class-based Components Practice:
+https://scrimba.com/learn/learnreact/class-based-components-practice-crV6eSv
+
+----------------------------------------------------------
+
+	6. React State
+
+Lesson # 26:
+https://scrimba.com/learn/learnreact/react-state-cnKwVtE
+
+Lesson # 27 Practice state 1:
+https://scrimba.com/scrim/c2NmZsa?pl=p7P5Hd
+
+Lesson # 28 Practice state 2:
+https://scrimba.com/scrim/cewRpUQ?pl=p7P5Hd
+
+Lesson # 29. TODO app phase 4:
+https://scrimba.com/scrim/cGreKTQ?pl=p7P5Hd
+
+----------------------------------------------------------
+
+	7. Handling Events in React
+
+Lesson # 30:
+https://scrimba.com/scrim/c2Nm2cV?pl=p7P5Hd
+
+Lesson # 31. TODO app phase 5:
+https://scrimba.com/scrim/c9yP6uM?pl=p7P5Hd
+
+----------------------------------------------------------
+
+	8. Changing the state
+
+Lesson # 32
+https://scrimba.com/scrim/cLKWEcZ?pl=p7P5Hd
+
+Lesson # 33.1. TODO app phase 6:
+Add handEvent to check box with Class Components
+https://scrimba.com/scrim/cgDqBHP?pl=p7P5Hd
+
+Lesson # 33.2.TODO app phase 6.1
+N: Mistake of the previous exercise where the original state is modified and that should not happen. Instead there should be a deep copy of the previous state with spread notation. Ex:
+   		return {
+                        ...todo,
+                        completed: !todo.completed
+                    }
+
+https://scrimba.com/scrim/cMqr68Sr?pl=p7P5Hd
+
