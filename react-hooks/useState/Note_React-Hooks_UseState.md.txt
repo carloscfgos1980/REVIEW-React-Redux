@@ -1,0 +1,11 @@
+1. Changed todo-app from class-based componets to react-hooks. Explanation are in the READ.md
+
+2. Study react-todo-app-v1-master. A lot of "mieles" for react app.
+https://www.youtube.com/watch?v=E1E08i2UJGI
+N:Function to change the complete state when using check box. It ws very useful when I changed the todo-app class-based components to hooks.
+
+3. Study NetNinja_blog-app to the lesson # 13 
+https://www.youtube.com/watch?v=CWEOYFzgOJs&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=13
+N: in order to grasp the concept of reuseable components.
+
+4. Changed Winc-shoppingCart class-based components app for shopping-cart app using hooks. Lot of changes and fortunately I finally understood how to do the shopping cart.
