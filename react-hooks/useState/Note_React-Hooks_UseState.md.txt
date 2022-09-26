@@ -6,6 +6,6 @@ N:Function to change the complete state when using check box. It ws very useful 
 
 3. Study NetNinja_blog-app to the lesson # 13 
 https://www.youtube.com/watch?v=CWEOYFzgOJs&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=13
-N: in order to grasp the concept of reuseable components.
+N: in order to grasp the concept of reuseable components. Also how to delete an item from the list
 
 4. Changed Winc-shoppingCart class-based components app for shopping-cart app using hooks. Lot of changes and fortunately I finally understood how to do the shopping cart.
