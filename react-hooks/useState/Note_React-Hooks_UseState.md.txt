@@ -16,6 +16,9 @@ N: Very cool app with a lot of "mieles".
   * method to obtain ids:
   id: Math.floor(Math.random() * 10000), // create a ramdom id with 10000 combinations, the chance of to equal ids be create is very small
   
+  Another method to create ids (Oscar, Flaca's friend:)
+  const randomString =()=> Math.random().toString(36).slice(2)
+  
   * Method to change state:
     const completeTodo = id => {
     let updatedTodos = todos.map(todo => {
