@@ -1,6 +1,6 @@
 ## Apps:
 
-1. Blog-app by the Net(complete) 
+1. Blog-app by the Net(complete); 
 https://www.youtube.com/watch?v=DLX62G4lc44
 Ninja to learn shitload of stuff. Explanation in the README.md file
 Check useEffect (retreive info from API and update it), Links (create a nav)
