@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+## Building a TODO app with class-based components. This is the Winc Academy proposed tutorial.... what a piece of shit. Old and I wont use it!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Lesson # 16. TODO app phase 2
+Check cool styling and reuseable componets.
 
-## Available Scripts
+https://scrimba.com/scrim/cewQ3fp?pl=p7P5Hd
 
-In the project directory, you can run:
+## Lesson # 23. TODO app fase 3
+https://scrimba.com/scrim/c4dDqtg?pl=p7P5Hd
 
-### `npm start`
+## Lesson # 29. TODO app phase 4:
+https://scrimba.com/scrim/cGreKTQ?pl=p7P5Hd
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Lesson # 31. TODO app phase 5:
+https://scrimba.com/scrim/c9yP6uM?pl=p7P5Hd
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Lesson # 33.1. TODO app phase 6:
+Add handEvent to check box with Class Components
+https://scrimba.com/scrim/cgDqBHP?pl=p7P5Hd
 
-### `npm test`
+## Lesson # 33.2.TODO app phase 6.1
+N: Mistake of the previous exercise where the original state is modified and that should not happen. Instead there should be a deep copy of the previous state with spread notation. Ex:
+   		return {
+                        ...todo,
+                        completed: !todo.completed
+                    }
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+https://scrimba.com/scrim/cMqr68Sr?pl=p7P5Hd
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Lesson # 39: React Todo App: Phase 7
+N: Cool way to style the completed tasks using ternary operators!
+https://scrimba.com/scrim/cKe27SD?pl=p7P5Hd
