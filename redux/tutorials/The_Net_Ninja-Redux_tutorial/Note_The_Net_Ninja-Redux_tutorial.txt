@@ -1,0 +1,122 @@
+	*** The_Net_Ninja-Redux_tutorial ***
+
+*Note: This tutorial use class-bassed components, but I hope I can learn from it...
+
+
+1. Lesson # 34 - Introduction to Redux
+
+https://www.youtube.com/watch?v=HKU24nY8Hsc&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=34
+
+2. Lesson # 35 - Redux. Create Stores
+
+https://www.youtube.com/watch?v=sNyXE35liAE&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=35
+
+3. Lesson # 36 - Redux. Actions
+
+https://www.youtube.com/watch?v=FGCsuwIORb0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=36
+
+4. Lesson # 37 - Redux. Reducers
+
+https://www.youtube.com/watch?v=w3okdbomqxo&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=37
+
+5. Lesson # 38 - Store Subscriptions
+
+https://www.youtube.com/watch?v=0r3eKhWag-8&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=38
+
+6. #39 - Setting up Redux in React
+
+https://www.youtube.com/watch?v=f87wPQMgF4c&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=39
+
+6.1 In the terminal, type:
+npm install redux react-redux
+
+
+6.2 In file Index.js:
+Import Redux library
+	import { createStore } from 'redux';
+
+6.3 In file Index.js:
+Import React-Redux in order to connect Redux with React thru the Provider function.
+	import { Provider } from 'react-redux';
+
+6.4 In file Index.js:
+Create store	
+	const store = createStore();
+
+
+6.5 In file Index.js:
+Wrap de store around the app
+
+ReactDOM.render(<Provider store={store}><App /></Provider>, document.getElementById('root'));
+registerServiceWorker();
+
+6.6 Inside src folder, create a folder named "reducers".
+
+6.7 Inside folder reducers, create a file "rootReducers.js"
+
+6.8 in rootReducers.js:
+*Create an empty initial state of post 
+const initState = {
+	post: []
+}
+
+* This function always take two parameters, state (initial( and action.
+const rootReducers = (state = initState, action)=>{
+	return state;
+}
+
+6.9 in rootReducers.js. Export de function:
+export default rootReducer
+
+6.10 in index.js. Import de reducer by:
+import rootReducer from './reducers/rootReducer'
+
+6.11 Asociate the reducer with the "createStore", like this:
+const store = createStore(rootReducer);
+
+7. Lesson # 40 - Mapping State to Props
+https://www.youtube.com/watch?v=CZ2qGtAnhoE&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=40
+
+N: Explanation in the README.md file
+
+8. # 41 - Blog Detail Page
+https://www.youtube.com/watch?v=SoOTQW4-tYk&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=41
+
+N: Explanation in the README.md file
+
+9. Lesson # 42 - Map Dispatch To Props
+https://www.youtube.com/watch?v=40pWMVMnftc&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=42
+
+N: Explanation in the README.md file
+
+10. Lesson # 43 - Action Creators
+https://www.youtube.com/watch?v=sY1mPVaUYds&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG&index=43
+
+N: Explanation in the README.md file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
