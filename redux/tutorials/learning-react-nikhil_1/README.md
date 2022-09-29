@@ -16,6 +16,6 @@ N: If we already have an app:
 npm install @reduxjs/toolkit
 
 N: From scratch:
-npx install react-app my-app --templete redux
+npx create-react-app my-app --templete redux
 
 - This is for the second commint. It helps with the writing in Redux
