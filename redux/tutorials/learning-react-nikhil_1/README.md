@@ -10,6 +10,12 @@ https://www.youtube.com/watch?v=zrs7u6bdbUw
 
 4. npm start
 
-5. npm install @reduxjs/toolkit
+5. npm install "reduxjs/toolkit":
+
+N: If we already have an app:
+npm install @reduxjs/toolkit
+
+N: From scratch:
+npx install react-app my-app --templete redux
 
 - This is for the second commint. It helps with the writing in Redux
