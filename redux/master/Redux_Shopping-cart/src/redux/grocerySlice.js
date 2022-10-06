@@ -1,7 +1,7 @@
 import { createSlice } from '@reduxjs/toolkit';
 
 const grocerySlice = createSlice({
-    name: 'todos',
+    name: 'grocery',
     initialState: [
         { id: 1, title: "Eggs" },
         { id: 2, title: "Cheese" },
