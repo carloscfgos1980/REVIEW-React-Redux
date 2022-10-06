@@ -32,6 +32,6 @@ I dont need if else or swith method with ConfigureStore.
 N:Real business happening!
 
 7. chrisblakely-tutorial
-N: Also very good. I need to check it out
+N: So far this has been the most useful one!
 
 
