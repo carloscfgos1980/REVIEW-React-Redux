@@ -1,0 +1,3 @@
+	*** Note_Redux_NoAPI ***
+
+Redux_NoAPI-todo-chrisblakely was very useful but I need to use a different method to change the state (completed) coz the method provided here does not longer work with the new node version. Check out a working method in redux/master/todo-app
