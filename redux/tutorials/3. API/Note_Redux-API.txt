@@ -1,0 +1,23 @@
+	*** Note Redux API ***
+
+I. Redux_API-blog-The_Net_Ninja
+II. Redux_API-Todo-chrisblakely
+III. Redux_API-part I(element)-ShoppingCart-nikhil
+IV. Redux_API-part II(Thunk)-ShoppingCart-nikhil
+
+I. The blog-app made by The Net Ninja is done in class-bassed components. This is a outdated code so I only have as a reference if I come across to an app written in this code. It is very eyedunfriendly way to coding
+
+
+I. chrisblakely todo-app tutorial is divided in two parts(without API & with API). He uses
+createAsyncThunk
+
+This a way to create extrareducers and the reducers and not longer need. It seems a bit weird but it works. It is not ncessary to dive to hard on this coz it seems this will change soon.
+
+III. Nikhil shoppingCart-app tutorial 4 parts:
+
+1. Based (in Redux-based folder)
+2. No Api (Redux-NoAPI folder)
+3. API making the call from a component.
+4. API making the call from the store. With this one I have a bug that I diodnt resove but it is not very important. Explanation in README.md
+
+
